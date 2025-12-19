@@ -28,6 +28,7 @@ Player Objective
   Progress through all levels to ultimately make it to school
 
 🧠 Focus Bar (Lose Condition)
+
 The core gameplay system is the Focus Bar, which represents Derrick’s mental clarity and determination.
 Players lose if the Focus Bar is fully depleted. This happens when:
 Picking up negative influence items
